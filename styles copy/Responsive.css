@@ -1,0 +1,2361 @@
+/* mediascreen */
+@media (max-width: 1280px) {
+    .advertisement-logo {
+        margin: auto;
+        display: flex;
+        justify-content: space-around;
+        margin-top: 60px;
+        margin-bottom: 60px; 
+    }
+    .advertisement-logo  img{
+        height: 30px;
+        width: 100px;
+    }
+    .software-solution{
+        width: 87vw;
+    }
+    .dashboard{
+        width: 645px;   
+    }
+    .dashboard img{
+        width: 645px;
+    }
+}
+
+@media (max-width: 1199px) {
+
+    .container{
+        width: 900px;
+        margin: auto;
+    }
+    .DateManagement-container{
+        width: 900px;
+    }
+    .DateManagement-container div:first-child{
+        width: 400px;
+        gap: 20px;
+    }
+    .salary-image-container{
+        width: 200px;
+        height: 200px;
+    }
+    .salary-image-containers{
+        width: 200px;
+        height: 200px;
+    }
+    .graph-img-container{
+        width: 300px;
+        height: 300px;
+    }
+    h1{
+        font-size: 40px;
+    }
+    video {
+        height: 500px ;
+        width: 900px ;
+    }
+    .vedio-play-icon-container{
+        bottom: 336px;
+        left: 590px;
+    }
+    .saas-feature-container{
+        width: 900px;
+    }
+    .achivement-container{
+        grid-template-columns: 1fr 1fr 1fr;
+        width: 900px;
+        justify-content: center;
+        align-items: center;
+        margin-top: 60px;
+    }
+    .subscription-plans{
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(1, auto);
+        width: 900px;
+        margin-bottom: 70px;
+    }
+    .Subscriptions{
+        padding: 30px
+    }
+    .bestplan{
+        bottom: 390px;
+        left: 240px;
+    }
+    .software-developement-solution{
+        margin-top: 80px;
+        font-size: 30px;
+        width:650px
+    }
+    .software-tools{
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(1, auto);
+        width: 900px;
+    }
+    .software-tools-items img {
+        height: 200px;
+        width: 230px;
+    }
+    .streamline-operation{
+        margin-top: 100px;
+    }
+    .advertisement-logo {
+        margin: auto;
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 50px;
+        margin-top: 10px;
+    }
+    .advertisement-vedio{
+        margin-bottom: 70px;
+    }
+    .copyright-top-border {
+        margin-top: 60px;
+    }
+    .about-saas{
+        grid-template-columns: 1fr 2fr;
+        width: 900px;
+        margin-top: 10px;
+    }
+    .frequently-asked-question-and-answer h4{
+        font-size: 30px;
+        width: 280px
+    }
+    .frequently-asked-question-and-answer p {
+        width: 350px;
+    }  
+    .dashboard{
+        width: 560px ;
+    }  
+    .dashboard img{
+        width: 560px;
+        height: 551px;
+    }
+    hr{
+        margin-top: 50px;
+        margin-bottom: 45px;
+    }
+    .customized-plans{
+        width: 800px; 
+        padding-top: 80px;
+    }
+    .toogle-bar{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    
+    .saas-feature-container{
+        margin-top: 10px;
+    }
+    .features-container{
+        width: 900px;
+    }
+    div[class="feature-image"] div{
+        width: 400px;
+        width: 400px;
+    }
+    .graph-barchart-image{
+        bottom: 50px;
+        left: 480px; 
+    }
+    .graph-img-container {
+        height: 250px;
+        width: 250px;
+    }
+    .graph-image{
+        bottom: 100px;
+        left: 686px;
+    }
+
+     div[class="features"] div {
+        height: 125px;
+        column-gap: 20px;
+        width: 480px;
+        margin-right: 0px;
+        padding: 20px 20px 10px 20px;
+    }
+    .features {
+        justify-content: center;
+    }
+    .sofland{
+        grid-template-columns: 1fr 200px 200px 230px;
+        width: 900px;
+    }
+    div [class=about-sofland] p:last-child{
+        text-align: justify;
+    }
+    .copyright{
+        width: 900px;
+    }
+    .copyright-top-border{
+        width: 900px;
+    }
+    .page-up-button{
+            left: 447px;
+    }
+    .advantage-title {
+        margin-bottom: 15px;
+    }
+    .advantage-image-container{
+        margin-bottom: 15px;
+    }
+}
+  
+
+@media (max-width: 991px) {
+    .navigation h2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .navigation{
+        width: 750px;
+    }
+    .navigation div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .DateManagement-container{
+        row-gap: 25px;
+    }
+    .DateManagement-container div:first-child{
+        width: 300px;
+    }
+    .salary-image-containers{
+        width: 175px;
+        height: 175px;
+    }
+    .salary-image-container{
+        width: 175px;
+        height: 175px;
+    }
+    .graph-img-container{
+        width: 200px;
+        height: 200px;
+    }
+    .paragraph{
+        width: 300px;
+    }
+    .advantages-container{
+        grid-template-columns: 1fr 1fr 1fr;
+        width: 750px;
+    }
+    .advantages-container{
+        width: 750px;
+    }
+    .header{
+        width: 750px;
+    }
+    h1{
+        font-size: 35px;
+        
+    }
+    .advantages-container{
+      column-gap:30px;
+    }
+    .description{
+        width:400px;
+    }
+    
+    .streamline-operation-container{
+        width: 750px;
+        margin:auto;
+    }
+    .streamline-operation{
+         font-size: 30px;
+         margin-top: 50px;
+         margin-bottom: 20px;
+    }
+    .streamline-operation-content{
+        margin: auto;
+        font-size: 15px;
+        width: 550px;
+    }
+    div[class="features"] div{
+        height: 150px;
+        width:425px;
+        margin-bottom: 0px;
+        padding: 20px 40px;
+        align-items: center;
+        /* margin-right: 30px; */
+    }
+    .features-container {
+        justify-content: space-between;
+        width: 750px;
+    }
+    div[class="feature-image"] div{
+        height: 500px;
+        width: 320px;
+        padding: 30px;
+        align-items: center;
+        padding: 20px;
+    }
+    .supermarket-salesreport{
+        height:350px;
+        width:250px;
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    .supermarket-analysis-report{
+         bottom: 27px;
+         left:90px;
+         height:180px;
+         width:200px;
+      }
+    .advantage-title{
+        width: 150px;
+    }
+    .play-icon{
+        position: absolute;
+    }
+    .vedio-play-icon-container{
+        bottom: 389px;
+        left: 638px;
+    }
+    .vedio-play-icon-container img{
+        height:25px;
+        width:25px;
+        top:22px;
+        left:23px;
+    }
+    .vedio-play-icon-container{
+        height: 70px ;
+        width: 70px;
+    }
+    .advertisement-vedio{
+        width: 750px;
+    }
+    .advertisement-logo{
+        width:760px;
+    }
+    .advertisement-page{
+        margin-bottom: 60px;
+    }
+    .advertisement-logo img{
+        height:30px;
+        width:100px;
+    }
+    .next-generation-titleandcontent-container{
+        width:650px;
+        margin: auto;
+        margin-left: 0px;
+    }
+    .next-generation-saas-title{
+        font-size: 30px;
+    }
+    .saas-feature-container{
+        width:750px;
+        /* margin-left: 20px; */
+    }
+    div [class=saas-feature-container] p{
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .achivement-container{
+        width:750px;
+        grid-template-columns: 1fr 1fr 1fr;
+        width: 750px;
+    }
+    hr{
+        width: 750px;
+        margin-bottom: 20px;
+    }
+    .software-solution{
+        width: 79vw;
+    }
+    div [class="advance-software-solution"] h3{
+        font-size: 30px;
+        width: 360px;
+    }
+    div [class=advance-software-solution] p{
+        width: 340px;
+        font-size: 15px;
+    }
+    div [class=saas-feature-container] div{
+        padding: 15px;
+    }
+    .dashboard{
+        width: 486px;
+    }
+    .dashboard img{
+        /* display: none; */
+        /* height:549px;  */
+        /* width:500px;
+        position: absolute;
+        right: 0px; */
+        /* margin-left: 20px; */
+        height: 466px; 
+        /* margin-left: 20px; */
+         width: 581px;   
+         display: none;
+    }
+    div [class="advance-software-solution"] h3{
+     width: 400px;
+    }
+    .software-solution{
+        position: relative;
+    }
+    .customized-plans{
+       font-size:  30px;
+       width: 650px;
+       line-height: 40px;
+    }
+    .customized-plan-description{
+        margin-top: 0px;
+        width: 550px;
+    }
+    .subscription-plans{
+        margin-left: 20px;
+        width:750px;
+        grid-template-rows: repeat(1, 550px);
+        padding-bottom: 60px
+    }
+    .Subscriptions{
+        padding: 20px;
+    }
+    .plan-details span{
+        font-size: 20px;
+    }
+    .monthly-plan {
+        font-size: 30px;
+    }
+    div [class=Subscriptions] h5 {
+        font-size: 30px;
+    }
+    .subscription-buttons{
+        padding: 13px 35px;
+    }
+    .bestplan {
+        height: 92px;
+        width: 25px;
+        position: absolute;
+        bottom: 443px;
+        left: 195px;
+    }
+    div[class="features"] p{
+        font-size: 15px;
+        font-family: "Roboto", sans-serif;
+    }
+    .paragraph{
+        font-size: 15px;
+        font-family: "Roboto", sans-serif;
+    }
+    .frequently-asked-question-and-answer h4{
+        font-size: 30px;
+        width: 350px;
+    }
+    .frequently-asked-question-and-answer p{
+        width: 350px;
+    }
+    .cutting-edge-saas-solution{
+        width: 750px;
+        margin: auto;
+        /* margin-left:-20px; */
+    }
+    .software-tools{
+        margin-left: 0px;
+        width: 750px;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    .software-tools-items img{
+        height:180px;
+        width:190px;
+    }
+    .software-tools-items{
+        padding: 20px;
+    }
+    .container{
+        width:750px;
+        margin: auto;
+    }
+    .about-saas{
+        width: 750px;
+        margin-left: 0px;
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 60px;
+    }
+    div[class="features"] div{
+        margin-right: 0px;
+    }
+    div [class=questions-dropdown] div{
+        width:550px;
+    }
+    .frequently-asked-question-and-answer{
+        margin-left: 0px;
+        width:300px;
+    }
+    .frequently-asked-question-and-answer h4{
+        width:300px;
+    }
+    .frequently-asked-question-and-answer p{
+        width:300px;
+    }
+    .button{
+        padding: 13px 35px;
+    }
+    div [class=questions-dropdown] div{
+        width: 420px;
+    }
+    .about-sofland{
+        width: 300px;
+    }
+    .sofland-description{
+        width: 300px;
+    }
+    div [class=about-sofland] p:first-child {
+        width:150px;
+    }
+    div [class=about-sofland] p:last-child{
+        /* width: 140px; */
+        text-align: justify;
+    }
+    .sofland{
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        width:750px;
+        margin-top: 20px;
+        row-gap: 40px;
+        column-gap: 60px;
+        justify-content: start;
+    }
+    .copyright-top-border{
+        width: 750px;
+        /* margin-left: 20px; */
+    }
+    .policy-and-copyright{
+        padding-top:40px;
+    }
+    .copyright{
+        width: 750px;
+    }
+    .tools-link {
+        margin-left: 0px;
+    }    
+    .page-up-button{
+        left: 361px;
+    }
+    .DateManagement-container{
+        width: 750px;
+    }
+    video{
+        width:750px;  
+        height: 500px;  
+    }
+    .advertisement-vedio{
+        width:750px;
+    }
+    .vedio-play-button{
+        top:  200px;
+    }
+    .customized-plan-description{
+        font-size: 15px;
+        font-family: "Roboto", sans-serif;
+    }
+    .subscription-details{
+        font-size: 15px;
+        font-family: "Roboto", sans-serif
+    }
+    .subscription-details img{
+        position: relative;
+        top:3px;
+    }
+    .socialmedia {
+        margin-top: 10px;
+    }
+    .register {
+        padding: 15px 40px 15px 15px;
+    }
+    .subscription-button {
+        padding: 15px 45px 15px 45px;
+    }
+    .login-button{
+        padding: 14px 6px;
+    }
+    .navigation div{
+        display: flex;
+        gap: 10px;
+    }
+    
+}
+@media (max-width: 767px) {
+    .container{
+        width: 620px;
+        margin: auto;
+    }
+    .navigation{
+        padding-top: 10px;
+        position: relative;
+    }
+    .main{
+        padding-bottom: 50px;
+        position: relative; 
+    }
+    .menu_bar_icon{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: transparent;
+        
+    }
+    .menu_bar_icon:hover .navigation-links{
+        display: block;
+        
+         /* background-color: antiquewhite */
+    }
+    .dropdown-content a{
+        display: none;
+    }
+    .navigation-links{
+        /* visibility: visible; */
+        display: none;
+        /* display: inline-flex; */
+        position: absolute;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap:5px;
+        /* height: 50px;
+        width: 100px; */
+        left: 0px;
+        /* top: 100px; */
+        z-index: 2;
+        padding: 10px;
+        margin-top: 20px;
+        background-color: #040841;
+    }
+    .navigation-links a{
+        background-color: #030033;
+        width: 80px;
+        z-index: 2;
+        padding-top: 10px;
+    }
+    .navigation div:last-child{
+        display: flex;
+        flex-direction: column;
+        position: relative;
+    }
+    .menubar_dropdown{
+        visibility: visible;
+    }
+    .login-button{
+        padding: 11px 6px;
+        margin-left: 10px;
+        display: none;
+        position: absolute;
+        gap:20px;
+    }
+    .buttons{
+        width: 180px;
+        background-color: transparent;
+    }
+    .DateManagement-container{
+        width: 620px;
+        flex-direction: column;
+    }
+    .DateManagement-container div:first-child{
+        width: 450px;
+    }
+    h1{
+        font-size: 30px;
+        width: 450px;
+    }
+    .paragraph{
+        width: 320px;
+    }
+    .description{
+        display: inline-block;
+        margin-bottom: 10px;
+    }
+    .streamline-operation{
+        width: 620px;
+        font-size: 25px;
+    }
+    .features-container{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        row-gap:20px;
+    }
+    div [class=saas-feature-container] div {
+        height: 170px;
+    }
+    .advantage-image-container {
+        height: 40px;
+        width: 40px;
+    }
+    .features {
+        height: auto;
+    }
+    div[class="features"] div{
+        margin-top: 0px;
+    }
+    video {
+        width: 620px;
+        height: 400px;
+        margin-top:  -250px;
+        display: flex;
+        justify-content: center;
+        
+    }
+    .advertisement-page{
+        margin-top: 16rem;
+    }
+    .saas-feature-container {
+        width: 620px;
+        grid-template-columns: 1fr;
+    }
+    .advertisement-logo{
+        width: 620px;
+    }
+    .advertisement-logo img {
+        height: 26px;
+        width: 80px;
+        align-self: flex-end;
+    }
+    .vedio-play-button{
+      position: absolute;
+      top: 300px; 
+      left: -360px;
+    }
+    .vedio{
+        width: 600px;
+    }
+    .next-generation-saas-title{
+        font-size: 25px;
+        width: 620px;
+    }
+    .saas-feature-container{
+        display: flex;
+        flex-direction: column;
+        width: 500px;
+        row-gap: 20px;
+        margin-bottom: 0px;
+    }
+    hr {
+        width: 620px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    .achivements{
+        padding: 20px;
+    }
+    .achivements h4{
+        width: 80px;
+    }
+    /* .dashboard{
+       display: block;
+    } */
+    div [class=achivements] h3{
+        font-size: 25px;
+    }
+    .software-developement-solution {
+        width: 620px;
+    }
+    .subscription-plans{
+        grid-template-columns: repeat(1, 400px);
+        padding: 5px;
+        width: 620px;
+        justify-content: center;
+        margin-bottom: 40px;
+    }
+    .Subscriptions{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .subscription-types{
+        margin-bottom: 10px;
+    }
+    .bestplan{
+        top: 40px;
+        left: 320px;
+        width: 32px;
+    }
+    .saas-details{
+        width:500px;
+    }
+    .software-tools {
+        width: 350px;
+        grid-template-columns: 1fr;
+    }
+    .software-tools-items img {
+        height: 250px;
+        width: 300px;
+    }
+    .about-saas{
+        flex-direction: column;
+        width: 620px;
+        justify-content: center;
+        align-items: center;
+    }
+    .cutting-edge-saas-solution{
+        width: 620px;
+    }
+    .copyright-top-border{
+        width: 620px;
+        margin: 10px auto;
+    }
+    .sofland {
+        width: 620px;
+    }
+    .policy-and-copyright{
+        width: 620px;
+        margin: 20px auto;
+    }
+    .page-up-button{
+        top:40px;
+        left: 300px;
+    }
+    .copyright {
+        width: 620px;
+    }
+    div [class=achivements] {
+        /* height: 140px; */
+        width: 200px;
+    }
+    .features-container {
+        width: 620px;
+    }
+    .streamline-operation-container {
+        width: 620px;
+    }
+    .software-today{
+        width: 620px;
+    }
+    .cloud-description{
+        width: 550px;
+    }
+}
+@media (max-width: 640px) {
+    .container{
+        width: 576px;
+        margin: auto;
+    }
+    .header{
+        height: 70px;
+        width: 576px;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+    }
+    .menu_bar_icon{
+        visibility: visible;
+    }
+    .navigation-links{
+        flex-direction: column;
+    }
+
+    .header h2{
+        width: 100px;
+        display: flex;
+        flex-direction: row;
+        font-size: 25px;
+    }
+    
+    .navigation{
+        width: 576px;
+        font-size: 10px;
+        /* margin-left: 100px; */
+    }
+    .navigation-links{
+        /* display:flex; */
+        /* flex-direction: column; */
+        /* visibility: hidden;*/
+        display: none;
+        
+    }
+    .navigation div:last-child{
+        display: flex;
+        flex-direction: row;
+    }
+    .container{
+        width:576px;
+        margin: auto;
+    }
+    .login-button{
+        display: flex;
+        flex-direction: row;
+        padding: 10px 20px;
+        display: none;
+        
+    }
+    .login-button:first-child{
+        margin-left: -200px;
+    }
+    .paragraph{
+        font-size: 12px;
+        width: 230px;
+        line-height: 20px;
+        font-family: "Roboto", sans-serif;
+        margin-top: -20px;
+    }
+    .buttons{
+        padding: 20px;
+        /* margin-top: -10px; */
+        width: 200px;
+    }
+    
+    .next-arr {
+        left: 177px;
+        top: 20px;
+    }
+    .description{
+        width: 200px;
+        flex-direction: column;
+        position: relative;
+    }
+    .description img{
+        float:left;
+        position: relative;
+        bottom: 2px;
+    }
+    .description div{
+        width: 280px;
+        font-size: 12px;
+    }
+    .DateManagement-container{
+        /* margin-left: 20px; */
+        width: 570px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+    }
+    .description{
+        gap: 10px;
+    }
+    .creditcard {
+        margin-right: 0px;
+    }
+    h1{
+        font-size: 25px;
+        width:280px
+    }
+    .salary-image-container{
+        height: 150px;
+        width: 150px;
+    }
+    .graph-img-container{
+        height: 180px;
+        width: 180px;
+    }
+    .advantages-container{
+        font-size: 12px;
+    }
+    .advantages-container{
+        width: 576px;
+        grid-template-columns: 1fr 1fr 1fr;
+        column-gap: 0px;
+    }
+    .advantages-container{
+      column-gap:10px;
+      padding: 0px 10px;
+    }
+    .advantages-container h3{
+        font-size: 13px;
+        width: 100px;
+    }
+    .advantages-container p{
+        width: 150px;
+        font-size: 12px;
+        text-align: justify;
+    }
+    
+    .salary-image-container {
+        width: 175px;
+        height: 175px;
+      }
+    .streamline-operation-content{
+        font-size: 12px;
+        width: 450px;
+        margin: auto;
+        /* margin-left: 20px; */
+        margin: auto;
+    }
+    .streamline-operation-container{
+        margin:auto;
+        font-size: 25px;
+        width: auto;
+        
+    }
+    .streamline-operation{
+         font-size: 25px;
+         margin-top: 50px;
+         width: 576px;
+    }
+    div[class="feature-image"] div{
+        width: 300px;
+    }
+    .features{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 500px;
+        margin: auto; 
+    }
+    .features-container {
+        width: 576px;
+    }
+    .software-solution{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        column-gap: 200px;
+        width: 576px;
+    }
+    .advance-software-solution{
+        margin-top: 0px;
+    }
+    /* .dashboard img{
+        margin: 30px 0px;
+        width:576px;
+        border-radius: 10px;
+        margin-left: 0px;
+    } */
+    video{
+        margin-top: -142px;
+        width: 86%;
+        height: 260px;
+        
+    }
+    .advertisement-vedio{
+        width: 576px;
+        margin: auto;
+    }
+    .advertisement-page {
+        margin-top:190px;
+    }
+    .vedio-play-icon-container img{
+        height:20px;
+        width:20px;
+        top: 30px;
+        left: 28px; 
+    }
+    .vedio-play-icon-container{
+        height: 75px;
+        width: 75px;
+    }
+    .vedio-play-button{
+        top: 340px;
+        left: -390px;
+    }
+    .advertisement-logo img{
+        height:15px;
+        width:50px;
+    }
+    .advertisement-logo{
+        margin-top: 14px;
+         width: 576px;
+    }
+    .next-generation-Saas-container{
+        width: 576px;
+        margin: auto;
+        
+    }
+    .next-generation-saas-title{
+        width: auto;
+        margin: auto;
+        font-size: 25px;
+    }
+     .saas-feature-container{
+        /* display: flex; */
+        /* flex-direction: column;
+        justify-content: center;
+        align-items: center; */
+        /* width: 550px; */
+        /* height: 160px; */
+        gap: 15px;
+        margin-right: 0px;
+    }
+    /* div [class=saas-feature-container] div{
+        height: 100px;
+    } */
+
+    .achivement-container{
+        width: 500px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: self-start;
+    } 
+    div [class=achivement-container] p{
+        width: 150px;
+    }
+    hr{
+        width: 576px;
+    }
+    div [class="advance-software-solution"] h3{
+        font-size: 25px;
+        width: 250px;
+    }
+    .customized-plans{
+        width: 576px;
+        font-size:  25px;
+        padding-top: 40px;
+    }
+    .customized-plan-description {
+        font-size: 12px;
+        width:500px;
+    }
+    .monthly{
+        font-size: 15px;
+    }
+    .yearly{
+        font-size: 15px;
+    }
+    .subscription-plans{
+        grid-template-columns: repeat(1, 400px);
+        padding: 5px;
+        width: 576px;
+        justify-content: center;
+        margin-bottom: 40px;
+    }
+    .subscription-plans div:last-child{
+        margin-bottom: 40px;
+    }
+    .Subscriptions{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .bestplan-subscription{
+        position: relative;
+      }
+    .bestplan{
+        position: absolute;
+        left: 330px;
+    }
+    .software-developement-solution{
+        width:460px;
+        font-size: 25px;
+        padding-top: 40px;
+        margin: auto;
+        margin-left: 0px;
+    }
+    .software-solution{
+        /* width:600px; */
+    }
+    .advance-software-solution {
+        margin-left: 0px;
+    }
+    
+    .cutting-edge-saas-solution{
+        width: 576px;
+        /* margin-left: -20px; */
+        justify-content: center;
+        align-items: center; 
+    }
+    .software-tools {
+       margin-right: 0px;
+       margin-left: 0px;
+       width: 400px;
+       grid-template-columns: 1fr;
+       grid-template-rows: 400px;
+    }
+    .software-tools-items img{
+        height: 260px;
+        width: 350px;
+    }
+    .about-saas{
+        display: flex;
+        flex-direction: column;
+        width: 576px;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .frequently-asked-question-and-answer h4 {
+        width: 400px;
+    }
+    .frequently-asked-question-and-answer p{
+        width: 400px;
+    }
+    .footer{
+       width: 550px;
+       margin-top: 60px;
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+       
+    }
+    .sofland{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+         width: 500px;
+    }
+    .software-today{
+        width: 550px;
+        margin: 0px;
+    } 
+    .cloud-description{
+        width: 550px;
+    }
+    .footer-page div:nth-child(2){
+        max-width: 550px;
+    }
+    .footer-page{
+    
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .saas-feature-container{
+         margin-left: 0px;
+    }
+    .saas-feature-container div {
+       height: 190px;
+    }
+    .copyright-top-border {
+        width: 500px;
+    
+    }
+    .copyright {
+        width: 500px;
+
+    }
+    .policy-and-copyright {
+        width: 500px;
+        margin:20px px  10px 0px;
+        
+    }
+    .footer-page div:nth-child(2) {
+        max-width: 225px;
+    }
+    .page-up-button {
+        left: 228px;
+    }
+    .policy-link{
+        bottom: 1px;
+        right: 7px;
+    }
+    .footer-page div:nth-child(2) {
+        max-width: 500px;
+    }
+}
+@media (max-width: 576px) {
+    .container {
+        width: 460px;
+        margin: auto;
+    }
+    .header{
+        height: 70px;
+        width: 460px;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+    }
+    .navigation{
+        width: 460px;
+    }
+    .menu_bar_icon{
+        visibility: visible;
+    }
+    .login-button{
+        display: none;
+    }
+    .header h2{
+        width: 100px;
+        display: flex;
+        flex-direction: row;
+    }
+    .navigation{
+        width: 460px;
+        font-size: 10px;
+        justify-content: space-between;
+    }
+    .navigation-links{
+        display:flex;
+        display: none;
+    }
+    .navigation div:last-child{
+        display: flex;
+        flex-direction: row;
+    }
+    .DateManagement-container{
+        width:480px;
+    }
+    .DateManagement-container div:first-child{
+        width: 450px;
+    }
+    h1{
+        width:auto;
+        font-size: 20px;
+    }
+    .paragraph{
+        font-size: 15px;
+        width: 350px;
+        line-height: 20px;
+        font-family: "Roboto", sans-serif;
+        margin-top: 0px;
+    }
+    .buttons{
+        padding: 10px;
+        width: 150px;
+    }
+    .graph-img-container {
+        height: 200px;
+        width: 200px;
+    }
+    .salary-image-container {
+        height: 175px;
+        width: 175px;
+    }
+    .description{
+        display: inline-block;
+        justify-content: center;
+        align-items: center;
+    }
+    .description img{
+        top: 2px;
+    }
+    .fa{
+       font-size: 25px;
+    }
+    .advantage-image-container {
+        height: 35px;
+        width: 35px;
+    }
+    .advantages-container{
+        width: 460px;
+        grid-template-columns: 1fr;
+        font-size: 15px;
+        gap:15px;
+    }
+    .advantages-container h3{
+        font-size: 18px;
+        width: auto;
+    }
+    .advantages-container p{
+        width: auto;
+        font-size: 15px;
+        text-align: justify;
+    }
+    .advantages-container div:first-child{
+        justify-content: center;
+    }
+
+
+    .graph-img-container{
+        height: 180px;
+        width: 180px;
+    }
+    .graph-barchart-image{
+        bottom: 80px; 
+        left: 325px;
+    }
+    .graph-image{
+        bottom: 150px;
+        left: 479px;
+    }
+   
+    .statistics-images {
+      justify-self: center;
+      align-items: center;
+    }
+    .streamline-operation-content{
+        font-size: 15px;
+        margin: auto;
+        width: 450px;
+        margin-left: 0px;
+        align-items: center;
+    }
+    .streamline-operation-container{
+        font-size: 25px;
+        margin-left: 0px;
+       
+    }
+    .streamline-operation{
+         font-size: 25px;
+         margin-top: 50px;
+         width: 460px;
+         margin-left: 0px;
+    }
+    .features{
+            margin: auto;
+            width: 450px;
+    }
+    .features-container {
+        flex-wrap: nowrap;
+        width:450px;
+        justify-content: center;
+    }
+   
+    div[class="features"] p{
+        height: auto;
+        width: auto;
+    }
+    div[class="features"] h3{
+        height: auto;
+        width: auto;
+        font-size: 18px;
+    }
+    div[class="features"] div{
+        width: 450px;
+        height: 130px;
+        padding: 20px;
+        
+    }
+    .supermarket-analysis-report{
+        height:200px;
+        width: 200px;
+        left: 80px;
+        top:280px;
+    }
+    .vedio-play-icon-container img{
+        height: 15px;
+        width: 15px;
+        top:18px;
+        left:18px;
+    }
+   
+    .vedio-play-icon-container{
+         height: 50px;
+         width: 50px;
+         
+    }
+    .next-generation-saas-title{
+         width: 460px;
+    }
+    .next-generation-saas-content{
+        width: 450px;
+    }
+    .next-generation-Saas-container {
+        width: 460px;
+    }
+    .saas-feature-container{
+        width: 460px;
+    }
+    .advertisement-logo{
+        flex-wrap: wrap;
+        width: 460px;
+    }
+    .achivement-container {
+        width: 460px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: self-start;
+    }
+    div [class=achivements] h4{
+        width:430px;
+    }
+    div [class=achivements] p{
+        width: 430px;
+    }
+    .software-solution{
+        margin-left: 0px;
+    }
+    .advance-software-solution {
+         margin-left: 0px;
+    }
+
+    .customized-plans {
+        width: 460px;
+    }
+    .customized-plan-description {
+        font-size: 15px;
+        width: 450px;
+    }
+    hr{
+        width: 460px;
+    }
+    .software-solution{
+        width: 460px;
+    }
+    .subscription-plans {
+        grid-template-columns: repeat(1, 350px);
+    }
+    .bestplan {
+        left: 290px;
+    }
+    .cutting-edge-saas-solution {
+        width: 460px;
+    }
+    .about-saas{
+        width: 460px;
+        margin: auto;
+    }
+    .software-developement-solution {
+        width: 460px;
+    }
+    .software-tools-items img {
+        height: 220px;
+        width: 307px;
+    }
+    .software-tools {
+        width: 350px;
+        /* grid-template-columns: 1fr; */
+        grid-template-rows: 360px;
+    }
+    .saas-details {
+        width: 450px;
+    }
+    .saas-feature-container {
+        width: 450px;
+    }
+    .frequently-asked-question-and-answer{
+        width: auto;
+    }
+    .questions-dropdown{
+        margin-bottom: 40px;
+    }
+    .footer {
+        width: 460px;
+        justify-content: center;
+    }
+    .software-today{
+        width: 460px;
+    }
+    .cloud-description {
+        width: 450px;
+    }
+    .sofland{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        /* align-items: center; */
+        width: 460px;
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+    .sofland-description{
+        width: 450px;
+    }
+    .about-sofland p{
+        width: 450px;
+    }
+    div [class=about-sofland] p:last-child {
+        width: 440px;
+    }
+    /* .socialmedia-list{
+        display: block;
+    } */
+    /* div [class=about-sofland] p{
+        width: 460px;
+    } */
+    .copyright{
+        width: 450px;
+    }
+    .quicklinks-and-support{
+        /* width: 460px; */
+        display: flex;
+        flex-direction: row;
+    }
+    .policy-and-copyright{
+        font-size: 15px;
+        width: 450px;
+    }
+    .footer-page div:nth-child(2){
+        font-size: 15px;
+        justify-content: space-evenly;
+    }
+    .copyright-top-border{
+        width: 450px;
+    }
+    .policy-and-copyright{
+        width: 450px;
+        display: flex;
+        justify-content: center;
+        gap: 5px;
+        width: 460px;
+    }
+    .page-up-button{
+        height:35px;
+        width:35px;
+    }
+    .privacy-policy{
+        padding-left: 10px;
+    }
+   
+  } 
+
+  @media (max-width: 480px) {
+    .container {
+        width: 330px;
+        margin: auto;
+    }
+    .header{
+        height: 70px;
+        width: 350px;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+    }
+    .menu_bar_icon{
+        visibility: visible;
+    }
+    .login-button{
+        display: none;
+    }
+    .header h2{
+        width: 100px;
+        display: flex;
+        flex-direction: row;
+    }
+    .navigation{
+        width: 350px;
+        font-size: 10px;
+        justify-content: space-between;
+    }
+    .navigation-links{
+        display:flex;
+        display: none;
+    }
+    .navigation div:last-child{
+        display: flex;
+        flex-direction: row;
+    }
+    .DateManagement-container{
+        width:330px;
+    }
+    .DateManagement-container div:first-child{
+        width: 330px;
+    }
+    h1{
+        width:auto;
+        font-size: 20px;
+    }
+    .paragraph{
+        font-size: 15px;
+        width: 300px;
+        line-height: 20px;
+        font-family: "Roboto", sans-serif;
+        margin-top: 0px;
+    }
+    .buttons{
+        padding: 10px;
+        width: 150px;
+    }
+    .graph-img-container {
+        height: 150px;
+        width: 150px;
+    }
+    .salary-image-container {
+        height: 150px;
+        width: 150px;
+    }
+    .salary-image-containers {
+        height: 150px;
+        width: 150px;
+    }
+    .graph-img-container{
+        height: 170px;
+        width: 170px;
+    }
+    .description{
+        display: inline-block;
+        justify-content: center;
+        align-items: center;
+    }
+    .description img{
+        top: 2px;
+    }
+    .fa{
+       font-size: 25px;
+    }
+    .advantage-image-container {
+        height: 35px;
+        width: 35px;
+    }
+    .advantages-container{
+        width: 330px;
+        grid-template-columns: 1fr;
+        font-size: 15px;
+        gap:15px;
+    }
+    .advantages-container h3{
+        font-size: 18px;
+        width: auto;
+    }
+    .advantages-container p{
+        width: auto;
+        font-size: 15px;
+        text-align: justify;
+    }
+    .advantages-container div:first-child{
+        justify-content: center;
+    }
+    .statistics-images {
+      justify-self: center;
+      align-items: center;
+    }
+    .streamline-operation-content{
+        font-size: 15px;
+        margin: auto;
+        width: 340px;
+        margin-left: 0px;
+        align-items: center;
+        padding: 0px 10px;
+    }
+    
+    .streamline-operation-container{
+        font-size: 25px;
+        margin-left: 0px;
+    }
+    .streamline-operation{
+         font-size: 25px;
+         margin-top: 50px;
+         width: 350px;
+         margin-left: 0px;
+         margin-top: 30px;
+    }
+    .features{
+         margin: auto;
+         width: 330px;
+    }
+    .features-container {
+        flex-wrap: nowrap;
+        width:330px;
+        justify-content: center;
+    }
+   
+    div[class="features"] p{
+        height: auto;
+        width: auto;
+    }
+    div[class="features"] h3{
+        height: auto;
+        width: auto;
+        font-size: 18px;
+    }
+    div[class="features"] div{
+        width: 330px;
+        height: 135px;
+        padding: 20px; 
+    }
+    div[class="feature-image"] div {
+        width: 300px;
+        height: 480px;
+    }
+    .supermarket-analysis-report{
+        height:180px;
+        width: 200px;
+        left: 80px;
+        top:280px;
+    }
+    .vedio-play-icon-container img{
+        height: 15px;
+        width: 15px;
+        top:18px;
+        left:18px;
+    }
+    .vedio-play-icon-container{
+         height: 50px;
+         width: 50px;
+    }
+    .next-generation-saas-title{
+         width: 330px;
+    }
+    .next-generation-saas-content{
+        width: 330px;
+    }
+    .next-generation-Saas-container{
+        width: 330px;
+    }
+    .saas-feature-container{
+        width: 330px;
+        padding-bottom: 40px;
+    }
+    .advertisement-page {
+        margin-top: 150px;
+        margin-bottom: 40px;
+    }
+    .advertisement-logo{
+        flex-wrap: wrap;
+        width:330px;
+        margin-bottom: 30px;
+    }
+    .achivement-container {
+        width:330px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: self-start;
+        margin-top: 10px;
+        gap: 10px;
+        
+    }
+    div [class=achivements] h3{
+        padding-bottom: 5px;
+        font-size: 23px;
+    }
+    div [class=achivements] h4{
+        width:330px;
+        padding-bottom: 5px;
+        font-size:19px;
+    }
+    div [class=achivements] p{
+        width: 330px;
+        padding-bottom: 5px;
+    }
+    .achivements{
+        width: 330px;
+        padding: 5px;
+    }
+    .software-solution{
+        margin-left: 0px;
+    }
+    /* .dashboard{
+        visibility: visible;
+    } */
+    .advance-software-solution {
+         margin-left: 0px;
+         padding-top: 0px;
+         gap: 10px;
+    }
+    div [class="advance-software-solution"] h3{
+        margin-top: 0px;
+        font-size:23px;
+    }
+
+    .customized-plans {
+        width: 350px;
+    }
+    .customized-plan-description {
+        font-size: 15px;
+        width: 340px;
+    }
+    hr{
+        width: 330px;
+    }
+    .software-solution{
+        width: 330px;
+    }
+    .subscription-plans {
+        grid-template-columns: repeat(1, 350px);
+    }
+    .bestplan {
+        left: 290px;
+    }
+    .cutting-edge-saas-solution {
+        width: 350px;
+    }
+    .about-saas{
+        width: 340px;
+        margin: auto;
+    }
+    .software-developement-solution {
+        width: 330px;
+    }
+    .software-tools-items img {
+        height: 200px;
+        width: 270px;
+    }
+    .software-tools {
+        width: 300px;
+        grid-template-columns: 1fr;
+        grid-template-rows: 360px;
+    }
+    .saas-details {
+        width: 340px;
+        padding:0px 10px;
+    }
+    .frequently-asked-question-and-answer{
+        width: 330px;
+        margin-top: 20px;
+    }
+    .frequently-asked-question-and-answer p  {
+        width: 330px;
+    }
+    .frequently-asked-question-and-answer  h4 {
+        width: 330px;
+        font-size: 23px;
+    }
+    .questions-dropdown{
+        margin-bottom: 40px;
+    }
+    div [class="questions-dropdown"] div{
+        width: 330px;
+        
+    }
+    .footer {
+        width: 350px;
+        justify-content: center;
+    }
+    .software-today{
+        width: 350px;
+    }
+    .cloud-description {
+        width: 340px;
+    }
+    .register {
+        padding:15px 40px 15px 10px;
+        width: 200px;
+        height: 40px;
+    }
+    .subscription-button {
+        width: 150px;
+        height: 40px;
+    }
+    .sofland{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        /* align-items: center; */
+        width: 330px;
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+    .sofland-description{
+        width: 340px;
+    }
+    .about-sofland p{
+        width: 330px;
+    }
+    div [class=about-sofland] p:last-child {
+        width: 330px;
+    }
+    .copyright{
+        width: 330px;
+    }
+    .quicklinks-and-support{
+        /* width: 460px; */
+        display: flex;
+        flex-direction: row;
+    }
+    .policy-and-copyright{
+        font-size: 15px;
+        width: 330px;
+    }
+    .footer-page div:nth-child(2){
+        flex-direction: row;
+        justify-content: space-evenly;
+        gap:5px;
+        font-size: 15px;
+    }
+    .copyright-top-border{
+        width: 330px;
+    }
+    .policy-and-copyright{
+        width: 330px;
+        display: flex;
+        justify-content: center;
+        gap: 5px;
+    }
+    .page-up-button{
+        height:35px;
+        width:35px;
+        left: 145px;
+        /* top: 45px; */
+    }
+    .privacy-policy{
+        padding-left: 10px;
+    }
+  }
+
+   @media (max-width: 350px) {
+    .container {
+        width: 290px;
+        margin: auto;
+    }
+    .header{
+        height: 70px;
+        width: 290px;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+    }
+    .menu_bar_icon{
+        visibility: visible;
+    }
+    .login-button{
+        display: none;
+    }
+    .header h2{
+        width: 100px;
+        display: flex;
+        flex-direction: row;
+    }
+    .navigation{
+        width: 290px;
+        font-size: 10px;
+        justify-content: space-between;
+    }
+    .navigation-links{
+        display:flex;
+        display: none;
+    }
+    .navigation div:last-child{
+        display: flex;
+        flex-direction: row;
+    }
+    .DateManagement-container{
+        width:290px;
+    }
+    .DateManagement-container div:first-child{
+        width: 290px;
+    }
+    h1{
+        width:auto;
+        font-size: 20px;
+    }
+    .paragraph{
+        font-size: 15px;
+        width: 250px;
+        line-height: 20px;
+        font-family: "Roboto", sans-serif;
+        margin-top: 0px;
+    }
+    .buttons{
+        padding: 10px;
+        width: 150px;
+    }
+    .salary-image-containers{
+        height: 125px;
+        width: 125px;
+    }
+    .salary-image-container {
+        height: 125px;
+        width: 125px;
+    }
+    .graph-img-container{
+        height: 160px;
+        width: 160px;
+    }
+    .description{
+        display: inline-block;
+        justify-content: center;
+        align-items: center;
+    }
+    .description img{
+        top: 2px;
+    }
+    .fa{
+       font-size: 25px;
+    }
+    .advantage-image-container {
+        height: 35px;
+        width: 35px;
+    }
+    .advantages-container{
+        width: 290px;
+        grid-template-columns: 1fr;
+        font-size: 15px;
+        gap:15px;
+    }
+    .advantages-container h3{
+        font-size: 18px;
+        width: auto;
+    }
+    .advantages-container p{
+        width: auto;
+        font-size: 15px;
+        text-align: justify;
+    }
+    .advantages-container div:first-child{
+        justify-content: center;
+    }
+    .statistics-images {
+      justify-self: center;
+      align-items: center;
+    }
+    .streamline-operation-content{
+        font-size: 15px;
+        margin: auto;
+        width: 270px;
+        align-items: center;
+        padding: 0px 10px;
+        
+    }
+    
+    .streamline-operation-container{
+        font-size: 25px;
+        margin-left: 0px;
+    }
+    .streamline-operation{
+         font-size: 20px;
+         margin-top: 50px;
+         width: 290px;
+       
+         margin-top: 30px;
+    }
+    .features{
+            margin: auto;
+            width: 290px;
+    }
+    .features-container {
+        flex-wrap: nowrap;
+        width:290px;
+        justify-content: center;
+    }
+   
+    div[class="features"] p{
+        height: auto;
+        width: auto;
+    }
+    div[class="features"] h3{
+        height: auto;
+        width: auto;
+        font-size: 18px;
+    }
+    div[class="features"] div{
+        width: 280px;
+        height: 170px;
+        padding: 20px; 
+    }
+    div[class="feature-image"] div {
+        width: 280px;
+        height: 480px;
+    }
+    .supermarket-salesreport {
+        height: 340px;
+        width: 220px;
+    }
+    .supermarket-analysis-report{
+        /* height:180px;
+        width: 200px; */
+        left: 57px; 
+    }
+    video {
+        width: 97%;
+        height: 237px;
+    }
+    .vedio-play-button{
+        left: -523px;
+        top: 324px;
+    }
+    /* .vedio-play-icon-container img{
+        height: 15px;
+        width: 15px;
+        top:18px;
+        left:18px;
+    } */
+
+    .next-generation-saas-title{
+         width: 290px;
+         font-size: 20px;
+    }
+    .next-generation-saas-content{
+        width: 280px;
+    }
+    .next-generation-Saas-container{
+        width: 290px;
+    }
+    .saas-feature-container{
+        width: 270px;
+        padding-bottom: 30px;
+    }
+    .advertisement-page {
+        margin-top: 120px;
+        margin-bottom: 40px;
+    }
+    .advertisement-logo{
+        /* flex-wrap: wrap; */
+        width:280px;
+        margin-bottom: 20px;
+        
+    }
+    .achivement-container {
+        width:270px;
+    }
+    div [class=achivements] h3{
+        padding-bottom: 5px;
+        font-size: 23px;
+    }
+    div [class=achivements] h4{
+        width:250px;
+        padding-bottom: 5px;
+        font-size:19px;
+    }
+    div [class=achivements] p{
+        width: 250px;
+        padding-bottom: 5px;
+    }
+    .achivements{
+        width: 280px;
+        padding: 5px;
+    }
+    .software-solution{
+        margin-left: 0px;
+    }
+    .advance-software-solution{
+        width: 260px;
+    }
+    
+    /* .dashboard{
+        visibility: visible;
+    } */
+    
+    div [class="advance-software-solution"] h3{
+        margin-top: 0px;
+        font-size:23px;
+    }
+    div [class=advance-software-solution] p {
+        width: 260px;
+    }
+    div [class="solution-list"] p{
+        width: 260px;
+    }
+
+    .customized-plans {
+        width: 290px;
+    }
+    .customized-plan-description {
+        font-size: 15px;
+        width: 290px;
+    }
+    hr{
+        width: 290px;
+    }
+    .software-solution{
+        width: 280px;
+    }
+    .customized-plans{
+        font-size: 20px;
+        width: 290px;
+        line-height: 27px;
+    }
+    .customized-plan-description{
+        width: 280px;
+    }
+    .subscription-plans div:last-child {
+         margin-bottom: 0px;
+        
+    }
+    
+    .subscription-plans {
+        grid-template-columns: repeat(1,270px);
+    }
+    .bestplan {
+            left: 225px;
+            top: 10px;
+    }
+    .cutting-edge-saas-solution {
+        width: 290px;
+    }
+    .about-saas{
+        width: 290px;
+        margin: auto;
+    }
+    .software-developement-solution {
+        width: 290px;
+        font-size: 20px;
+    }
+    .software-tools-items img {
+        width: 233px;
+    }
+    .software-tools {
+        width: 270px;
+        grid-template-columns: 1fr;
+        grid-template-rows: 375px;
+    }
+    .saas-details {
+        width: 280px;
+    }
+    .frequently-asked-question-and-answer{
+        width: 270px;
+        margin-top: 20px;
+    }
+    div [class=questions-dropdown] div{
+        height:70px;
+        padding: 15px;
+    }
+    .frequently-asked-question-and-answer p  {
+        width: 270px;
+    }
+    .frequently-asked-question-and-answer  h4 {
+        width: 240px;
+        font-size: 23px;
+    }
+    .questions-dropdown{
+        margin-bottom: 40px;
+        margin-top: 20px;
+    }
+    div [class="questions-dropdown"] div{
+        width: 270px;
+    }
+    div [class=questions-dropdown] div:hover {
+        height: 200px;
+    }
+    .footer {
+        width: 290px;
+        /* justify-content: center; */
+    }
+    .software-today{
+        width: 290px;
+        font-size: 20px;
+        margin-left: 0px;
+    }
+    .footer-page div:nth-child(2){
+        flex-direction: column;
+        /* align-items: center; */
+        height: 50px;
+        margin-bottom: 10px;
+        
+    }
+    .cloud-description {
+        width: 280px;
+    }
+    .register {
+        padding:15px 40px 15px 10px;
+        width: 200px;
+        height: 40px;
+    }
+    .subscription-button {
+        width: 140px;
+        height: 40px;
+    }
+    .sofland{
+        display: flex;
+        flex-direction: column;
+        width: 290px;
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+    .sofland-description{
+        width: 280px;
+    }
+    .about-sofland p{
+        width: 280px;
+    }
+    div [class=about-sofland] p:last-child {
+        width: 260px;
+    }
+    .copyright{
+        width: 290px;
+    }
+    .quicklinks-and-support{
+        flex-direction: column;
+        justify-content: center;
+    }
+    .policy-and-copyright{
+        font-size: 15px;
+        width: 290px;
+    }
+    .footer-page div:nth-child(2){
+        font-size: 15px;
+        height: auto;
+    }
+    .copyright-top-border{
+        width: 290px;
+    }
+    .policy-and-copyright{
+        width: 290px;
+        display: flex;
+        justify-content: center;
+        gap: 5px;
+    }
+    .page-up-button{
+        /* height:35px;
+        width:35px;
+        left: 185px;
+        top: 45px; */
+        left: 125px;
+    }
+    .privacy-poilcy{
+        /* padding-left: 10px; */
+        border-right: 0px solid transparent;
+        /* border-color: transparent; */
+    }
+    .policy-link{
+        padding-left: 85px;
+    }
+    .terms-and-condition-link{
+        padding-left: 60px;
+    }
+}
